@@ -137,3 +137,8 @@ Some examples:
 
 # Now and Then
 What we covered in this lecture is very important because we will use hashes repeatedly throughout the course from here on out. Using hashes will make your Ruby programs easier to write and understand.
+
+For more information, refer to:
+
+- http://www.tutorialspoint.com/ruby/ruby_hashes.htm
+- http://www.ruby-doc.org/core-2.1.4/Hash.html
